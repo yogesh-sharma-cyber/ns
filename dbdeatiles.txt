@@ -1,0 +1,9 @@
+Server [localhost]:
+Port [5432]:
+Database [postgres]: auditApp
+Username [postgres]: yogi
+Password for user yogi: 
+
+for login panel - 
+no
+101
